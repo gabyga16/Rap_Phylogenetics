@@ -1,4 +1,4 @@
-# **Genomes in nucleotides of B. cereus group selected strains:**
+## **Genomes in nucleotides of B. cereus group selected strains:**
 BacillusDB_Bien.fasta
 
 # **Folder queries:** 

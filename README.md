@@ -1,5 +1,5 @@
 # **Genomes in nucleotides of B. cereus group selected strains:**
-  ## BacillusDB_Bien.fasta
+  ### BacillusDB_Bien.fasta
 
 **Folder queries:** fasta files of queries used in blast 
 
